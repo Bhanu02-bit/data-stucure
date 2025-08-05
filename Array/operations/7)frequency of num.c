@@ -17,7 +17,7 @@ int main(){
         for(int j=i+1;j<5;j++){
             if(a[j]==a[i]){
                 count++;
-                a[j]=-1
+                a[j]=-1;
             }
         
     }
